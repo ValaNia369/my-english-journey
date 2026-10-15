@@ -1,0 +1,7 @@
+{
+ "schema_version":"1.0","session_date":"2026-10-15","session_title":"Talking about yesterday","session_id":"sol-2026-10-15-a","language":"en-US",
+ "sentences":[{"original":"Yesterday I go to my friend's house.","natural":"I went to my friend's house yesterday.","correction_status":"corrected"}],
+ "vocabulary":[{"word":"catch up","context_sentence":"We had a chance to catch up.","explanation":"To talk with someone after not seeing them for some time.","additional_examples":["Let's catch up this weekend."]}],
+ "patterns":[{"pattern":"I used to + base verb","examples":["I used to play soccer every weekend."],"grammar_hint":"(Past habits)"}],
+ "idioms":[{"expression":"It slipped my mind","context_sentence":"I meant to call, but it slipped my mind.","explanation":"I forgot to do it.","examples":["Sorry, it completely slipped my mind."]}],"songs":[]
+}
